@@ -1,0 +1,5 @@
+# Ignore large files
+pneumonia_detection_dataset/
+model.h5
+*.zip
+*.rar
